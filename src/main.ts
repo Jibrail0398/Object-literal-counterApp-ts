@@ -8,4 +8,8 @@ export function counterApp(data?: CounterInput): CounterOutput|string {
     
     return "";
 
+    
 }
+console.log("adji")
+
+
